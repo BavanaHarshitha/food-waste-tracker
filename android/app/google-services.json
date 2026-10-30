@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555030233161",
+    "project_id": "food-wastage-tracker-2d86f",
+    "storage_bucket": "food-wastage-tracker-2d86f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555030233161:android:4ce5ffdad10a4f0610bf98",
+        "android_client_info": {
+          "package_name": "com.example.food_waste_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDveIfsDgGUlBeXJqLjfnupPMP8yZPEdZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
